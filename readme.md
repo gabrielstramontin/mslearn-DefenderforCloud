@@ -1,27 +1,15 @@
-# Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls
+# Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls:
+For more information about this Microasoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/)**
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+### Prepare for your assessment:
+**[SC-5002 Learning Path](https://learn.microsoft.com/en-us/training/paths/secure-azure-services-workloads-defender-cloud/)**
 
-## What are we doing?
-
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Microsoft services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs (Microsoft Certified Trainer) to keep the content current with product changes.
-
-- We hope this brings a sense of collaboration to the labs like we have never had before - when a Microsoft service such as Azure or Microsoft 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
-
-## How should I use this repository?
-
-- The instructor materials are your primary source for teaching the course content.
-
-- These files on GitHub are designed to be used in the course labs, which use the hosted lab environment.
-
-- It is recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Microsoft cloud services and get the latest files for their delivery.
-
-## What about changes to the student handbook?
-
-- We will review the student handbook on a quarterly basis and update through the normal MOC (Microsoft Official Curriculum) release channels as needed.
-
-## How do I contribute?
-
-- Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+### Labs Exercises:
+- [Exercise 01](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_01_Configuring%20Microsoft%20Defender%20for%20Cloud%20Enhanced%20Security%20Features%20for%20Servers.html): Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers.
+- [Exercise 02](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_02_Create%20a%20virtual%20network%20infrastructure.html): Create a virtual network infrastructure.
+- [Exercise 03](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_03_Create%20a%20Log%20Analytics%20workspace.html): Create a Log Analytics workspace.
+- [Exercise 04](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_04_Create%20a%20data%20collection%20rule%20and%20install%20the%20Azure%20Monitor%20Agent.html): Create a data collection rule and install the Azure Monitor Agent.
+- [Exercise 05](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_05_Enable%20just-in-time%20access%20on%20VMs.html): Enable just-in-time access on VMs.
+- [Exercise 06](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_06a_Configure%20Azure%20Key%20Vault%20networking%20settings.html): Configure Azure Key Vault networking settings. 
+- [Exercise 07](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_06b_Enable%20soft%20delete%20in%20Azure%20Key%20Vault.html): Enable soft delete in Azure Key Vault.
+- [Exercise 08](https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/Instructions/Labs/LAB_07_Connect%20to%20an%20Azure%20SQL%20server%20using%20an%20Azure%20Private%20Endpoint%20using%20the%20Azure%20portal.html): Connect to an Azure SQL server using an Azure Private Endpoint using the Azure portal. 
